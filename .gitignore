@@ -2,3 +2,4 @@ __MACOSX/
 data/
 dogImages/
 lfw/
+*.pt
