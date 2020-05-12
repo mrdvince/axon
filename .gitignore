@@ -3,3 +3,11 @@ data/
 dogImages/
 lfw/
 *.pt
+data/
+*.pth
+*.pt
+*.bin
+*.pyc
+*.pkl
+*.json
+*.cpython-37.pyc
