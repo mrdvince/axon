@@ -14,11 +14,9 @@ Some of the materials and projects include:
 * [Generating Human celebrity faces using GANs](https://github.com/styluna7/dl-nanodegree/tree/master/deeplearning-nanodegree/projects/project-face-generation): Implement a DCGAN to generate new images based on the Celeba dataset.
 
 * [Classifiying skin cancer using a CNNs](https://github.com/styluna7/dl-nanodegree/tree/master/deeplearning-nanodegree/dermatologist-ai): Using a pretrained network, a network is trained on images 3 classes of skin cancer. a technique known as **transfer learning**
-<img src="https://github.com/styluna7/dl-nanodegree/blob/master/images/skin-cancer.png"/> 
 
 * [Generating TV Scripts using an RNN](https://github.com/styluna7/dl-nanodegree/tree/master/deeplearning-nanodegree/projects/project-tv-script-generation): Using a supplied tv script, an LSTM network is trained to generate text. Here is a sample of the generated text:
 
-<img src="https://github.com/styluna7/dl-nanodegree/blob/master/images/tv-script.png"/> 
 
 # Dependencies
 
